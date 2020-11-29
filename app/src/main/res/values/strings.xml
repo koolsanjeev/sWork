@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sWork Assignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_delivery_return_text">DELIVERY/RETURN</string>
+</resources>
